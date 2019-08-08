@@ -15,9 +15,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ImageView ivWelcome = findViewById(R.id.ivWelcome);
-        TextView tvSubWelcome = findViewById(R.id.tvSubWelcome);
-        TextView btnget = findViewById(R.id.btnget);
-
+        TextView tvSubWelcome = findViewById(R.id.tvAppDesc);
+        TextView btnget = findViewById(R.id.btnGet);
     }
 
     public void goToMainTodoScreen(View view){

@@ -63,5 +63,6 @@
         android:text="@string/btnText"
         android:textAllCaps="false"
         android:textColor="#FFF"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        />
 </GridLayout>

@@ -3,4 +3,5 @@
     <string name="name">E - List</string>
     <string name="app_desc">The best app to manage your tasks.</string>
     <string name="btnText">Get Started </string>
+    <string name="snackbar_undo">Undo</string>
 </resources>
